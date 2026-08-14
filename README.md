@@ -74,3 +74,10 @@ All calculations strictly use standard **SI units** and adhere to rigorous therm
    ```bash
    git clone https://github.com/your-username/thermo-x-heat-transfer-analyser.git
    cd thermo-x-heat-transfer-analyser
+## Live Application
+
+[Launch THERMO-X](https://thermo-x-heat-transfer-analyser-3zttxzncjadtkusswxtxhs.streamlit.app/)
+
+## GitHub Repository
+
+[View the source code](https://github.com/babanawo1/thermo-x-heat-transfer-analyser)
