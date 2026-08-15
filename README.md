@@ -81,3 +81,11 @@ All calculations strictly use standard **SI units** and adhere to rigorous therm
 ## GitHub Repository
 
 [View the source code](https://github.com/babanawo1/thermo-x-heat-transfer-analyser)
+## Engineering Standards and Validation
+
+THERMO-X uses SI units throughout the analysis workflow. The application
+provides validation and warning messages for invalid engineering inputs and
+applies thermodynamic constraints to prevent physically invalid calculations.
+
+Users should verify calculated results against the governing heat-transfer
+equations and engineering assumptions before using them for design decisions.
